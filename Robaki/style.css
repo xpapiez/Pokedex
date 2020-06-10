@@ -1,0 +1,58 @@
+h1{
+    text-align: center;
+    font-family: 'Caveat Brush', cursive;
+    padding-top: 20vh;
+    margin: 0;
+    
+}
+
+.wyglad {
+    font-family: 'Caveat Brush', cursive;
+    font-size: large;
+    text-align: left;
+    padding-top: 10vh;
+    margin-left: 10vh;
+    margin-right: 100vh;
+}
+.zachowanie {
+    font-family: 'Caveat Brush', cursive;
+    font-size: large;
+    text-align: left;
+    padding-top: 10vh;
+    margin-left: 10vh;
+    margin-right: 100vh;
+}
+img {
+ float: right;
+ margin-right:10vh;
+ height: 250px;
+ width: 250px;
+ padding-top:5vh;
+ margin-right:30vh
+}
+body {
+    background-color:rgb(184, 187, 189) ;
+    margin: 0;
+    padding-top: 0.01px;
+    margin-bottom: 3vh;
+    
+}
+.navbar {
+    width: 100vw;
+    height: 10vh;
+    position: fixed;
+    background: url('data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBg8IBwgKCgkFDQ8FBQUFBQ8ICQUKFBUWFhQRExMYHCggGBolGxMTITEhJSkrLi4uFx8zODMsNygtLisBCgoKBQULFgUFDisZExkrLSsrKysrKysrKysrLTcrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIAJYBUQMBIgACEQEDEQH/xAAXAAEBAQEAAAAAAAAAAAAAAAAAAQUG/8QAFhABAQEAAAAAAAAAAAAAAAAAAAFB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgEGBP/EABURAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIRAxEAPwDvaFHYETAwGkgCFEAGlEASlEAE4gAlEAQogAnEAGlEAQolCglEAEolCiHEAQogAkgAnEAEoIqIUEVBKJQoJwARWpQo0TIxMDAaSAIUQAaUQBKUQATiACUQBCiACcQAaUQBCiUKCUQASiUKIcQBCiACSACcQASgiohQRUEolCgnABFalCjRMjEwMBpIAhRABpRAEpRABOIAJRAEKIAJxABpRAEKJQoJRABKJQohxAEKIAJIAJxABKCKiFBFQSiUKCcAEVqUKNEyMTAwGkgCFEAGlEASlEAE4gAlEAQogAnEAGlEAQolCglEAEolCiHEAQogAkgAnEAEoIqIUEVBKJQoJwARWpQo0TIxMDAaSAIUQAaUQBKUQATiACUQBCiACcQAaUQBCiUKCUQASiUKIcQBCiACSACcQASgiohQRUEolCgnABFalCjRMjEwMBpIAhRABpRAEpRABOIAJRAEKIAJxABpRAEKJQoJRABKJQohxAEKIAJIAJxABKCKiFBFQSiUKCcAEVqUKNEyMTAwGkgCFEAGlEASlEAE4gAlEAQogAnEAGlEAQolCglEAEolCiHEAQogAkgAnEAEoIqIUEVBKJQoJwARWpQo0TIxMDAaSAIUQAaUQBKUQATiACUQBCiACcQAaUQBCiUKCUQASiUKIcQBCiACSACcQASgiohQRUEolCgnABFalCjRMjEwMBpIAhRABpRAEpRABOIAJRAEKIAJxABpRAEKJQoJRABKJQohxAEKIAJIAJxABKCKiFBFQSiUKCcAEVqUQaJkYYANJAEKIANKIAlKIAJxABKIAhRBATgANKIAhRKAJRABKJQEOIAhRABJBATgAJQQEKCAJRKAJwARX//Z');
+    background-size: cover;
+    display: grid;
+    grid-template-columns: repeat(6,1fr);
+    padding: 0;
+    margin-bottom: 3vh;
+    font-family: 'Caveat Brush', cursive;
+    font-size: x-large;
+    text-align: center;
+    align-items: center;
+    
+}
+a{
+    text-decoration: none;
+}
